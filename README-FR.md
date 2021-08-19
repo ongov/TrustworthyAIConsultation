@@ -4,16 +4,16 @@ Consultation : terminée.
 Du 7 mai au 4 juin 2021 nous avons sollicité votre avis et vos idées sur la manière dont le gouvernement peut élaborer un cadre pour l’intelligence artificielle (IA) qui soit responsable, sûr et fondé sur les droits. [Apprenez-en davantage sur ce que nous avons entendu et sur nos prochaines étapes](https://www.ontario.ca/fr/page/consultations-sur-le-cadre-de-lintelligence-artificielle-ia-de-confiance-de-lontario).
 
 Raw data from the consultations are available on the [Ontario Data Catalogue](https://data.ontario.ca/dataset/survey-results-ontario-s-trustworthy-artificial-intelligence-ai-framework) and submissions received with consent to publish are available here from:
- * Bob Fay, Centre for International Governance Innovation
+ * [Bob Fay, Centre for International Governance Innovation](https://github.com/ongov/TrustworthyAIConsultation/blob/main/CIGI_Consultation-Ontario%20Trustworthy%20AI%20Framework%203%20June%202021.docx)
  * [Information and Privacy Commissioner](https://www.ipc.on.ca/wp-content/uploads/2021/06/2021-06-04-ipc-comments-on-ai-framework.pdf) 
- * Huawei
- * Teresa Scassa
- * CIO Strategy Council
+ * [Huawei](https://github.com/ongov/TrustworthyAIConsultation/blob/main/Huawei%20Canada%20-%20Developing%20Ontario's%20Artificial%20Intelligence%20(AI)%20Framework%20-%20June%204%202021.pdf)
+ * [Teresa Scassa](https://github.com/ongov/TrustworthyAIConsultation/blob/main/Scassa-Submission-Developing%20Ontario's%20AI%20Framework.pdf)
+ * [CIO Strategy Council](https://github.com/ongov/TrustworthyAIConsultation/blob/main/CIOSC-LTR-ON-AI-Framework-Consultation_2021-06-04%5B22%5D.pdf)
  * [Ontario Non-Profit Network](https://theonn.ca/wp-content/uploads/2021/06/AI-in-Ontario-Consultation-Submission-External-JUNE-2021.pdf)
- * Accenture
- * Law Commission of Ontario
- * Community Legal Aid
- * Alanna Sokic, Council of Canadian Innovators
+ * [Accenture](https://github.com/ongov/TrustworthyAIConsultation/blob/main/Accenture%20Response%20-%20ONGov%20Trustworthy%20AI.docx)
+ * [Law Commission of Ontario](https://github.com/ongov/TrustworthyAIConsultation/blob/main/Law%20Commission%20of%20Ontario%20Submission%20on%20Trustworthy%20AI%20--%20Final%20--%20June%204%202021%20.pdf)
+ * [Community Legal Aid](https://github.com/ongov/TrustworthyAIConsultation/blob/main/Community%20Legal%20Aid%20Submission%20to%20the%20Government%20of%20Ontario.pdf)
+ * [Alanna Sokic, Council of Canadian Innovators](https://github.com/ongov/TrustworthyAIConsultation/blob/main/Council%20of%20Canadian%20Innovators%20Response%20-%20Ontario%E2%80%99s%20Trustworthy%20Artificial%20Intelligence%20(AI)%20Framework%20Consultation.pdf)
  * [Ontario Human Rights Commission](http://www.ohrc.on.ca/en/news_centre/submission-ontario%E2%80%99s-trustworthy-artificial-intelligence-ai-framework)
- * Omar Bitar, Policy Advisor and Benoit Deshaies, acting Director, Data and artificial intelligence policy, Office of the Chief Information Officer, Treasury Board of Canada Secretariat
+ * [Omar Bitar, Policy Advisor and Benoit Deshaies, acting Director, Data and artificial intelligence policy, Office of the Chief Information Officer, Treasury Board of Canada Secretariat](https://github.com/ongov/TrustworthyAIConsultation/blob/main/GC%20TBS%20feedback%20-%20Ontario%20AI%20Framework%20-%20May%202021.docx)
 
