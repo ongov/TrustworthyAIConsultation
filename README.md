@@ -5,7 +5,7 @@ From May 7 to June 4, 2021 we asked for your input and ideas on how government c
 
 Raw data from the consultations are available on the [Ontario Data Catalogue](https://data.ontario.ca/dataset/survey-results-ontario-s-trustworthy-artificial-intelligence-ai-framework) and submissions received with consent to publish are available here from:
  * Bob Fay, Centre for International Governance Innovation
-[Information and Privacy Commissioner](https://www.ipc.on.ca/wp-content/uploads/2021/06/2021-06-04-ipc-comments-on-ai-framework.pdf 
+ * [Information and Privacy Commissioner](https://www.ipc.on.ca/wp-content/uploads/2021/06/2021-06-04-ipc-comments-on-ai-framework.pdf) 
  * Huawei
  * Teresa Scassa
  * CIO Strategy Council
