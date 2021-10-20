@@ -10,7 +10,7 @@ Raw data from the consultations are available on the [Ontario Data Catalogue](ht
  * [Teresa Scassa](https://github.com/ongov/TrustworthyAIConsultation/blob/main/Scassa-Submission-Developing%20Ontario's%20AI%20Framework.pdf)
  * [CIO Strategy Council](https://github.com/ongov/TrustworthyAIConsultation/blob/main/CIOSC-LTR-ON-AI-Framework-Consultation_2021-06-04%5B22%5D.pdf)
  * [Ontario Non-Profit Network](https://theonn.ca/wp-content/uploads/2021/06/AI-in-Ontario-Consultation-Submission-External-JUNE-2021.pdf)
- * [Accenture](https://github.com/ongov/TrustworthyAIConsultation/blob/main/ACN%20Response%20-%20ONGov%20Trustworthy%20AI.docx)
+ * [Accenture](https://github.com/ongov/TrustworthyAIConsultation/blob/main/Accenture%20Response%20-%20ONGov%20Trustworthy%20AI.docx)
  * [Law Commission of Ontario](https://github.com/ongov/TrustworthyAIConsultation/blob/main/Law%20Commission%20of%20Ontario%20Submission%20on%20Trustworthy%20AI%20--%20Final%20--%20June%204%202021%20.pdf)
  * [Community Legal Aid](https://github.com/ongov/TrustworthyAIConsultation/blob/main/Community%20Legal%20Aid%20Submission%20to%20the%20Government%20of%20Ontario.pdf)
  * [Alanna Sokic, Council of Canadian Innovators](https://github.com/ongov/TrustworthyAIConsultation/blob/main/Council%20of%20Canadian%20Innovators%20Response%20-%20Ontario%E2%80%99s%20Trustworthy%20Artificial%20Intelligence%20(AI)%20Framework%20Consultation.pdf)
